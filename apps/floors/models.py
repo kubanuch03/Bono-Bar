@@ -14,3 +14,5 @@ class Floor(models.Model):
         indexes = [
             models.Index(fields=['id'])
         ]
+
+
